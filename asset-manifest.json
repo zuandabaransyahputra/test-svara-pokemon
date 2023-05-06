@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-svara-pokemon/static/css/main.5026a9d5.css",
+    "main.js": "/test-svara-pokemon/static/js/main.5aa4362b.js",
+    "static/js/787.ab378faf.chunk.js": "/test-svara-pokemon/static/js/787.ab378faf.chunk.js",
+    "index.html": "/test-svara-pokemon/index.html",
+    "main.5026a9d5.css.map": "/test-svara-pokemon/static/css/main.5026a9d5.css.map",
+    "main.5aa4362b.js.map": "/test-svara-pokemon/static/js/main.5aa4362b.js.map",
+    "787.ab378faf.chunk.js.map": "/test-svara-pokemon/static/js/787.ab378faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5026a9d5.css",
+    "static/js/main.5aa4362b.js"
+  ]
+}
